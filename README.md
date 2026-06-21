@@ -21,3 +21,7 @@ https://renevalenz.github.io/dino/
 ```
 godot --headless --export-release Web exports/index.html
 ```
+
+## Screenshot
+
+![Screenshot](screenshots/dinoscreenshot.png)
