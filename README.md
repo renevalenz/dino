@@ -2,6 +2,10 @@
 
 Chrome Dino clone hecho en Godot 4.7 como proyecto de aprendizaje.
 
+## Screenshot
+
+![Screenshot](screenshots/dinoscreenshot.png)
+
 ## Controles
 
 - **ESPACIO** — Saltar
@@ -22,6 +26,4 @@ https://renevalenz.github.io/dino/
 godot --headless --export-release Web exports/index.html
 ```
 
-## Screenshot
 
-![Screenshot](screenshots/dinoscreenshot.png)
